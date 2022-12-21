@@ -1,0 +1,5 @@
+|LeaveMilkyWayGalaxy|
+||MilkyWayGalaxy|Aliens|
+||||MilkyWayGalaxy||
+||Ghost|||
+Aliens|MilkyWayGalaxy|StartingRoom|MilkyWayGalaxy|FindDaggerRoom
