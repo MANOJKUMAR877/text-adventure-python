@@ -21,3 +21,6 @@ def Dagger():
 def Space():
    winsound.PlaySound('space.wav', winsound.SND_ALIAS)
 
+def Lose():
+   winsound.PlaySound('lose.wav', winsound.SND_ALIAS)
+
